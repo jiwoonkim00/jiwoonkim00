@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoonkim00&layout=compact&hide_title=true&theme=buefy" alt="Top Languages" />
-</div>
-
 # 👋 안녕하세요, 주니어 AI 엔지니어 김지운입니다.
 
 [cite_start]LLM RAG와 컴퓨터 비전 파이프라인을 **실제 동작하는 서비스**로 구현하고, 팀 프로젝트에서 설계와 통합을 주도해 온 AI 엔지니어입니다[cite: 4, 5].
