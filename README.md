@@ -48,6 +48,7 @@
 - **핵심 설계:** LLM은 최종 진단자가 아니라, 의료진이 검토 가능한 판독문 초안 생성 보조 역할로 제한
 - **기술:** BiomedCLIP, Solar Pro3, RAG, DICOM, PACS
 - **의의:** 의료 VLM과 LLM을 PACS 워크플로우에 연결하는 B2B 의료 AI PoC 경험
+- **GitHub:** [medical-ai-pacs](https://github.com/jiwoonkim00/medical-ai-pacs)
 
 ---
 
@@ -60,6 +61,7 @@
 - **핵심 기능:** 과거 판독문이 있는 경우 RAG로 이전 기록을 검색해 현재 판독문과 비교 요약
 - **기술:** Qwen, RAG, DICOM, PACS, Prompt Engineering
 - **의의:** 단순 요약을 넘어 이전/현재 판독문을 비교하는 종적 비교 기능을 설계
+- **GitHub:** [medical-translation](https://github.com/jiwoonkim00/medical-translation)
 
 ---
 
